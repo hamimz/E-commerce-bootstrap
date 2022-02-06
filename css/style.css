@@ -1,0 +1,17 @@
+.info-background{
+    background-color: #FEEAE9;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.submit-button .btn{
+    margin-top: 5px;
+    background-color: #FF589B;
+    border: 0;
+}
+
+.submit-button .email{
+    border: 0;
+}
